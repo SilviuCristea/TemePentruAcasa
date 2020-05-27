@@ -96,6 +96,8 @@ public class Main {
         }else{
             System.out.println("Mecia lui Liviu este mai mare");
         }
+        
+        // parca mai era o metoda de comparat studentii, care era si mai de preferat
 
     }
 }
